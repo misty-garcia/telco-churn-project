@@ -7,7 +7,7 @@ def clean_data(df):
     # strip white spaces away, replace with NaN, and change variable to float
     df.total_charges = df.total_charges.str.strip().replace("", np.nan).astype(float)
     # drop nulls
-    df.dropna(inplace=True)
+    df.total_charges.dropna(inplace=True)
     return df
 
 def encode(train, test, col_name):
