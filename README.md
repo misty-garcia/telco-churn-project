@@ -1,4 +1,4 @@
-## Classication Project
+## Classification Project
 ### Telco - Why are customers churning?
 
 Initalizing project.
