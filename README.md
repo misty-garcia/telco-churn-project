@@ -17,7 +17,22 @@ Find out why customers are churning
 - Oral presentation of google slides
 - Multiple .py files with transformations to run model
 
-### How to run: 
+#### Need to run: 
+- access to the bayes db on mysql
+- env.py file with host, user, & password
+
+#### How to reproduce:
+- Pull all .py files
+    - util.py
+    - acquire.py
+    - prep.py
+    - split_scale.py
+- Add your env.py file
+- Random states are set as 123 in the notebook
+- Run through telco_pipeline.ipynb
+
+
+
 
 
 
