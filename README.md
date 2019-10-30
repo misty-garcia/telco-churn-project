@@ -1,5 +1,6 @@
 ## Classification Project
 ### Telco - Why are customers churning?
+This project was built using python
 
 #### Goal:
 - Find out why customers are churning
