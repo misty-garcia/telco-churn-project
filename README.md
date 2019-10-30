@@ -15,7 +15,7 @@
 #### Deliverables: 
 - Report in a jupyter notebook with questions answered
 - CSV with customer id, probability of churn, & prediction of churn
-- Google slide deck 
+- [Google slide deck](https://docs.google.com/presentation/d/1vFiLhiPTOndN5YJ86qJYPcuTihIe95oVllrSAVQK070/edit#slide=id.g6fa551a25a_0_740)
     - show model
     - features used
     - how likely model gives a high probability of churn when no churn occurs
