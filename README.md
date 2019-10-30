@@ -34,6 +34,7 @@
     - acquire.py
     - prep.py
     - split_scale.py
+    - model.py
 - Add your env.py file
 - Run through telco_pipeline.ipynb
     - Random states are set as 123 in the notebook
