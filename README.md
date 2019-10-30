@@ -2,7 +2,8 @@
 ### Telco - Why are customers churning?
 
 #### Goal:
-Find out why customers are churning
+- Find out why customers are churning
+- Use Data Science 
 
 #### Questions the boss is interested in:
 - When are customers most likely to churn? 
@@ -18,8 +19,8 @@ Find out why customers are churning
 - Multiple .py files with transformations to run model
 
 #### Need to run: 
-- access to the bayes db on mysql
-- env.py file with host, user, & password
+- Access to the bayes db on mysql
+- Personal env.py file with host, user, & password
 
 #### How to reproduce:
 - Pull all .py files
@@ -28,10 +29,8 @@ Find out why customers are churning
     - prep.py
     - split_scale.py
 - Add your env.py file
-- Random states are set as 123 in the notebook
 - Run through telco_pipeline.ipynb
-
-
+    - Random states are set as 123 in the notebook
 
 
 
