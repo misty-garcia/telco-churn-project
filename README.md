@@ -3,7 +3,7 @@
 
 #### Goal:
 - Find out why customers are churning
-- Use Data Science 
+- Use data science
 
 #### Questions the boss is interested in:
 - When are customers most likely to churn? 
@@ -14,7 +14,12 @@
 #### Deliverables: 
 - Report in a jupyter notebook with questions answered
 - CSV with customer id, probability of churn, & prediction of churn
-- Google slide deck showing model, features, recall, precision, and accuracy
+- Google slide deck 
+    - show model
+    - features used
+    - how likely model gives a high probability of churn when no churn occurs
+    - how likely model gives a low probability of churn when churn occurs
+    - accuracy
 - Oral presentation of google slides
 - Multiple .py files with transformations to run model
 
